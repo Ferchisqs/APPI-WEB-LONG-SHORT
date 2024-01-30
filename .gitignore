@@ -1,8 +1,2 @@
-# Ignorar la carpeta node_modules
 node_modules/
-
-# Ignorar archivos generados por el sistema
-.DS_Store
-
-# Ignorar configuraciones específicas del editor (ejemplo: VS Code)
-.vscode/
+.env/
